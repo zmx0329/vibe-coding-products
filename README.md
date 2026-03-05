@@ -27,7 +27,7 @@
 AI 旅行规划助手
 
 <a href="https://github.com/zmx0329/TripMuse">
-<img width="100%" alt="960b95d78de3257116d5579d7e84cf87" src="https://github.com/user-attachments/assets/efb1e18d-4554-4e80-a050-0bb4f44b84d6" />
+
 </a>
 
 把“看到的好地方 / 想去的店 / 收藏的攻略”直接变成可执行的旅行行程。 TripMuse 是一个 灵感画布 + 规划面板 的旅行规划助手：左侧像 Pinterest 一样随手贴灵感，右侧像旅行策划师一样帮你做取舍、平衡与落地，最终生成基于真实 POI、动线合理、节奏可控的日程。
@@ -55,7 +55,7 @@ AI 旅行规划助手
 **毒蛇黑猫督导 · 习惯养成系统**
 
 <a href="https://github.com/zmx0329/Black-Cat-Habits">
-<img width="100%" src="https://github.com/user-attachments/assets/72c68c61-50ea-4020-8c64-4aee1596b85b" />
+
 </a>
 
 Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应用。
