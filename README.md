@@ -88,19 +88,12 @@ Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应
 <td width="50%" valign="top">
 
 ## Page Pin  
-网页信息整理工具
+网页打标工具
 
 <a href="https://github.com/zmx0329/page-pin">
-<img width="100%" src="https://github.com/user-attachments/assets/72c68c61-50ea-4020-8c64-4aee1596b85b" />
 </a>
 
-用于整理和管理网页信息。
-
-核心功能：
-
-- 网页收藏
-- 信息卡片化
-- 内容整理
+一个Chrome插件，可以在网页里快速标记（Pin）当前位置或具体元素，并随时一键回到该位置。支持页面内搜索与高亮跳转。
 
 <p>
 <a href="https://github.com/zmx0329/page-pin">项目地址</a>
@@ -109,8 +102,9 @@ Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应
 <details>
 <summary>效果展示</summary>
 
-<img src="images/pagepin1.png" width="45%">
-<img src="images/pagepin2.png" width="45%">
+<img width="100%" alt="5cb5cd8022d8e17245addcf2f88ba5e0" src="https://github.com/user-attachments/assets/ebc74d51-959a-46da-9291-6b9a7318c162" />
+<img width="100%" height="345" alt="f03f8f92b77106ab70c027b86fe0e396" src="https://github.com/user-attachments/assets/a43e6ee4-0039-4f00-a52e-3f134ea67554" />
+<img width="100%" height="475" alt="22a2ec4b5d4fe11a92571375c5985295" src="https://github.com/user-attachments/assets/e9f6c330-105e-4fbf-94dd-b9927690fdbe" />
 
 </details>
 
@@ -122,7 +116,6 @@ Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应
 星露谷资源整理
 
 <a href="https://github.com/zmx0329/Stardew-Valley-Collection">
-<img src="images/stardew-cover.png" width="100%">
 </a>
 
 整理 Stardew Valley 游戏相关资源。
@@ -139,9 +132,10 @@ Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应
 
 <details>
 <summary>效果展示</summary>
-
-<img src="images/stardew1.png" width="45%">
-<img src="images/stardew2.png" width="45%">
+<img width="50%" alt="3818bcc12cea07af2cc5452007c45b9a" src="https://github.com/user-attachments/assets/2fe12fcb-bfe4-4ace-9898-b4723cc97ee8" />
+<img width="50%" alt="e580d416eb3a1e9f2c811b5e3b1655c8" src="https://github.com/user-attachments/assets/a8d6c812-df29-46df-8324-e66f2df06702" />
+<img width="50%" alt="62a28ba8e29607859976e5e9b8209424" src="https://github.com/user-attachments/assets/e9173eb1-f1d9-4535-b427-8c14e07a53f4" />
+<img width="50%" alt="8b2c8f8ac23ba5b36b9eaea51ad7cd3b" src="https://github.com/user-attachments/assets/f2fb2d3a-59ae-4678-83e4-2b641af71952" />
 
 </details>
 
