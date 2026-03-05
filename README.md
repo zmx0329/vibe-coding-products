@@ -2,37 +2,20 @@
 <p align="center">
 汇总了我通过vibe coding方式构建的一些小型产品项目
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/zmx0329?style=social">
-<img src="https://img.shields.io/github/followers/zmx0329?style=social">
-</p>
-
 ---
 
 # 主要使用工具
 
 这些项目主要通过 AI 编程工具完成开发。
-
-### AI Coding
+主要使用工具：
 
 - **Codex CLI**  
-  在终端中理解项目结构、生成代码、修改多文件逻辑并执行开发任务。
-
 - **Claude Code**  
-  用于代码生成、调试与复杂逻辑实现。
-
 - **Antigravity**  
-  AI 驱动的开发环境，可通过 agent 自动执行开发流程。
-
-### AI Frontend
-
 - **Google AI Studio**  
   用于快速生成前端代码与应用逻辑。
-
 - **Stitch (Google)**  
-  AI UI 设计工具，可以通过自然语言或草图生成完整 UI 界面与前端代码。
-
+  AI UI 设计工具，通过自然语言或草图生成完整 UI 界面与前端代码。
 ---
 
 # 项目展示
@@ -41,28 +24,22 @@
 <tr>
 <td width="50%" valign="top">
 
-## TripMuse  
+## TripMuse 灵感成行
 AI 旅行规划助手
 
 <a href="https://github.com/zmx0329/TripMuse">
-<img src="images/tripmuse-cover.png" width="100%">
+<img width="100%" alt="960b95d78de3257116d5579d7e84cf87" src="https://github.com/user-attachments/assets/efb1e18d-4554-4e80-a050-0bb4f44b84d6" />
 </a>
 
-把旅行灵感转化为完整行程规划。
+把“看到的好地方 / 想去的店 / 收藏的攻略”直接变成可执行的旅行行程。 TripMuse 是一个 灵感画布 + 规划面板 的旅行规划助手：左侧像 Pinterest 一样随手贴灵感，右侧像旅行策划师一样帮你做取舍、平衡与落地，最终生成基于真实 POI、动线合理、节奏可控的日程。
 
-核心特点：
-
-- 灵感画布
-- AI 行程生成
-- 地图 POI 路线规划
-- 住宿区域推荐
-
+你不需要从“去哪儿、怎么玩、先后顺序”开始纠结——只要把你喜欢的内容丢进来，TripMuse 会替你完成从“灵感”到“行程”的收敛过程
 <p>
 <a href="https://github.com/zmx0329/TripMuse">项目地址</a>
 </p>
 
 <details>
-<summary>查看截图</summary>
+<summary> 效果展示</summary></summary>
 
 <img src="images/tripmuse1.png" width="32%">
 <img src="images/tripmuse2.png" width="32%">
