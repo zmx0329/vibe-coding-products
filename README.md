@@ -24,7 +24,7 @@
 <td width="50%" valign="top">
 
 ## TripMuse 灵感成行
-AI 旅行规划助手
+**AI 旅行规划助手**
 
 <a href="https://github.com/zmx0329/TripMuse">
 
@@ -40,9 +40,9 @@ AI 旅行规划助手
 <details>
 <summary>效果展示</summary></summary>
 
-<img width="50%" alt="14a77e6eb8c0ed03d916992a2b060666" src="https://github.com/user-attachments/assets/26c880da-4393-4c90-bb8e-f382a7fbec21" />
-<img width="50%" alt="960b95d78de3257116d5579d7e84cf87" src="https://github.com/user-attachments/assets/efb1e18d-4554-4e80-a050-0bb4f44b84d6" />
-<img width="50%" alt="3dd1b306ab51e61e1e46c42d907cdeaf" src="https://github.com/user-attachments/assets/85046e66-1499-4c02-bf97-3f79c1442757" />
+<img width="49%" alt="14a77e6eb8c0ed03d916992a2b060666" src="https://github.com/user-attachments/assets/26c880da-4393-4c90-bb8e-f382a7fbec21" />
+<img width="49%" alt="960b95d78de3257116d5579d7e84cf87" src="https://github.com/user-attachments/assets/efb1e18d-4554-4e80-a050-0bb4f44b84d6" />
+<img width="49%" alt="3dd1b306ab51e61e1e46c42d907cdeaf" src="https://github.com/user-attachments/assets/85046e66-1499-4c02-bf97-3f79c1442757" />
 
 
 </details>
@@ -88,7 +88,7 @@ Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应
 <td width="50%" valign="top">
 
 ## Page Pin  
-网页打标工具
+**网页打标工具**
 
 <a href="https://github.com/zmx0329/page-pin">
 </a>
@@ -113,18 +113,15 @@ Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应
 <td width="50%" valign="top">
 
 ## Stardew Valley Collection  
-星露谷资源整理
+**星露谷物集图鉴**
 
 <a href="https://github.com/zmx0329/Stardew-Valley-Collection">
 </a>
 
-整理 Stardew Valley 游戏相关资源。
 
-项目目标：
+在《Stardew Valley》的世界里，每一件物品都有属于它的名字与故事。
+本项目想把这种温柔带回现实——上传一张照片，系统为它生成像素形态、写下标签与描述，并记录下这一刻的时间。从此，平凡日常也能被珍藏，像素里藏着的是生活本身。
 
-- 汇总攻略
-- 整理工具
-- 降低查找成本
 
 <p>
 <a href="https://github.com/zmx0329/Stardew-Valley-Collection">项目地址</a>
@@ -132,10 +129,10 @@ Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应
 
 <details>
 <summary>效果展示</summary>
-<img width="50%" alt="3818bcc12cea07af2cc5452007c45b9a" src="https://github.com/user-attachments/assets/2fe12fcb-bfe4-4ace-9898-b4723cc97ee8" />
-<img width="50%" alt="e580d416eb3a1e9f2c811b5e3b1655c8" src="https://github.com/user-attachments/assets/a8d6c812-df29-46df-8324-e66f2df06702" />
-<img width="50%" alt="62a28ba8e29607859976e5e9b8209424" src="https://github.com/user-attachments/assets/e9173eb1-f1d9-4535-b427-8c14e07a53f4" />
-<img width="50%" alt="8b2c8f8ac23ba5b36b9eaea51ad7cd3b" src="https://github.com/user-attachments/assets/f2fb2d3a-59ae-4678-83e4-2b641af71952" />
+<img width="49%" alt="3818bcc12cea07af2cc5452007c45b9a" src="https://github.com/user-attachments/assets/2fe12fcb-bfe4-4ace-9898-b4723cc97ee8" />
+<img width="49%" alt="e580d416eb3a1e9f2c811b5e3b1655c8" src="https://github.com/user-attachments/assets/a8d6c812-df29-46df-8324-e66f2df06702" />
+<img width="49%" alt="62a28ba8e29607859976e5e9b8209424" src="https://github.com/user-attachments/assets/e9173eb1-f1d9-4535-b427-8c14e07a53f4" />
+<img width="49%" alt="8b2c8f8ac23ba5b36b9eaea51ad7cd3b" src="https://github.com/user-attachments/assets/f2fb2d3a-59ae-4678-83e4-2b641af71952" />
 
 </details>
 
