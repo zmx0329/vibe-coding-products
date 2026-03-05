@@ -38,7 +38,7 @@ AI 旅行规划助手
 </p>
 
 <details>
-<summary> 效果展示</summary></summary>
+<summary>效果展示</summary></summary>
 
 <img width="32%" alt="14a77e6eb8c0ed03d916992a2b060666" src="https://github.com/user-attachments/assets/26c880da-4393-4c90-bb8e-f382a7fbec21" />
 <img width="32%" alt="960b95d78de3257116d5579d7e84cf87" src="https://github.com/user-attachments/assets/efb1e18d-4554-4e80-a050-0bb4f44b84d6" />
@@ -52,31 +52,32 @@ AI 旅行规划助手
 <td width="50%" valign="top">
 
 ## Black Cat Habits  
-毒蛇黑猫监督的习惯养成
+**毒蛇黑猫督导 · 习惯养成系统**
 
 <a href="https://github.com/zmx0329/Black-Cat-Habits">
-<img src="images/blackcat-cover.png" width="100%">
+<img width="100%" src="https://github.com/user-attachments/assets/72c68c61-50ea-4020-8c64-4aee1596b85b" />
 </a>
 
-一个带有“毒舌监督人格”的习惯打卡应用。
+Black Cat Habits 是一款带有 **“毒舌监督人格”** 的习惯养成应用。
 
-核心功能：
+它不是一个温柔提醒你打卡的工具，而是一只 **毒舌、冷静、持续观察你的黑猫**。
+在这里，你的习惯不是被简单记录，而是被持续审视。
 
-- 好习惯 / 坏习惯管理
-- 每日打卡
-- 日历统计
-- AI 黑猫点评
+当你坚持时，它会认可你。
+当你偷懒时，它也会毫不客气地指出来。
+
+这种 **人格化监督机制**，让习惯管理从“记录行为”变成一种更有情绪反馈的体验。
 
 <p>
 <a href="https://github.com/zmx0329/Black-Cat-Habits">项目地址</a>
 </p>
 
 <details>
-<summary>查看截图</summary>
+<summary>效果展示</summary>
 
-<img src="images/habits1.png" width="32%">
-<img src="images/habits2.png" width="32%">
-<img src="images/habits3.png" width="32%">
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/72c68c61-50ea-4020-8c64-4aee1596b85b" />
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/89020178-d23a-4f70-b7ac-5ceeab7fe278" />
+<img width="32%" alt="image" src="https://github.com/user-attachments/assets/ebfe5f70-9daf-4292-8394-c1ecc32ae55a" />
 
 </details>
 
@@ -90,7 +91,7 @@ AI 旅行规划助手
 网页信息整理工具
 
 <a href="https://github.com/zmx0329/page-pin">
-<img src="images/pagepin-cover.png" width="100%">
+<img width="100%" src="https://github.com/user-attachments/assets/72c68c61-50ea-4020-8c64-4aee1596b85b" />
 </a>
 
 用于整理和管理网页信息。
@@ -106,7 +107,7 @@ AI 旅行规划助手
 </p>
 
 <details>
-<summary>查看截图</summary>
+<summary>效果展示</summary>
 
 <img src="images/pagepin1.png" width="45%">
 <img src="images/pagepin2.png" width="45%">
@@ -137,7 +138,7 @@ AI 旅行规划助手
 </p>
 
 <details>
-<summary>查看截图</summary>
+<summary>效果展示</summary>
 
 <img src="images/stardew1.png" width="45%">
 <img src="images/stardew2.png" width="45%">
