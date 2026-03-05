@@ -40,9 +40,9 @@ AI 旅行规划助手
 <details>
 <summary>效果展示</summary></summary>
 
-<img width="32%" alt="14a77e6eb8c0ed03d916992a2b060666" src="https://github.com/user-attachments/assets/26c880da-4393-4c90-bb8e-f382a7fbec21" />
-<img width="32%" alt="960b95d78de3257116d5579d7e84cf87" src="https://github.com/user-attachments/assets/efb1e18d-4554-4e80-a050-0bb4f44b84d6" />
-<img width="32%" alt="3dd1b306ab51e61e1e46c42d907cdeaf" src="https://github.com/user-attachments/assets/85046e66-1499-4c02-bf97-3f79c1442757" />
+<img width="50%" alt="14a77e6eb8c0ed03d916992a2b060666" src="https://github.com/user-attachments/assets/26c880da-4393-4c90-bb8e-f382a7fbec21" />
+<img width="50%" alt="960b95d78de3257116d5579d7e84cf87" src="https://github.com/user-attachments/assets/efb1e18d-4554-4e80-a050-0bb4f44b84d6" />
+<img width="50%" alt="3dd1b306ab51e61e1e46c42d907cdeaf" src="https://github.com/user-attachments/assets/85046e66-1499-4c02-bf97-3f79c1442757" />
 
 
 </details>
